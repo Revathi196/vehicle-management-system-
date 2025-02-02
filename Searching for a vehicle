@@ -1,0 +1,9 @@
+search_result = manager.get_vehicle("ABC123")
+    if search_result:
+        print("\nFound Vehicle:")
+        print(search_result)
+    else:
+        print("\nVehicle not found.")
+    
+if __name__ == "__main__":
+    main()
