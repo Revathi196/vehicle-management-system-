@@ -1,0 +1,3 @@
+ print("Vehicle List:")
+    for vehicle in manager.get_all_vehicles():
+        print(vehicle)
