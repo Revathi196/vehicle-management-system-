@@ -1,0 +1,2 @@
+ manager.add_vehicle(Vehicle("ABC123", "Toyota", "Camry", 2020))
+    manager.add_vehicle(Vehicle("XYZ789", "Honda", "Civic", 2019))
